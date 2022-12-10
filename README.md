@@ -3,7 +3,7 @@
 [ChatGPT 바로가기](https://chat.openai.com/chat)  
 inspired by : https://github.com/f/awesome-chatgpt-prompts
 
-<details open>
+<details close>
 
 <summary>TOC</summary>
 
